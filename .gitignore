@@ -1,0 +1,8 @@
+# Node Libraries
+node_modules/
+
+# npm
+npm-debug.log
+
+# Repl-ed code for future reference
+spike/
