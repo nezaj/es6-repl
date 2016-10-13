@@ -7,7 +7,6 @@ import path from 'path';
 
 // Customize repl context
 // ---------------------------------------------------------------------------
-
 const hello = 'Hello World!'
 
 function initializeContext(context) {
